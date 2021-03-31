@@ -1,11 +1,9 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "letters": [
+      ["na","na","B","A"],
+      ["C","na","A","na"],
+      ["na","B","na","na"],
+      ["A","na","B","C"]
+    ]
+
   }
